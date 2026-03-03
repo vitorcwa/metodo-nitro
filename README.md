@@ -23,7 +23,7 @@ Abra http://localhost:5173
 Coloque o arquivo da logo CWA em:
 
 ```
-../../public/assets/img/logo-cwa.webp
+../../public/assets/img/logo.webp
 ```
 
 ---
@@ -83,7 +83,7 @@ Crie um arquivo `netlify.toml` na raiz (já incluído):
 ```
 cwa-landing/
 ├── public/assets/img/
-│   └── logo-cwa.webp          ← coloque a logo aqui
+│   └── logo.webp          ← coloque a logo aqui
 ├── src/
 │   ├── assets/
 │   │   └── global.css         ← tokens de design e estilos globais
@@ -124,4 +124,4 @@ cwa-landing/
 | Depoimentos reais de clientes | `DepoimentosSection.vue` |
 | Cores e fontes | `src/assets/global.css` → `:root {}` |
 | Textos e copy | Cada componente `.vue` |
-| Logo | `../../public/assets/img/logo-cwa.webp` |
+| Logo | `../../public/assets/img/logo.webp` |

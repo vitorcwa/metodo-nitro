@@ -3,7 +3,7 @@
     <div class="container">
       <div class="footer__inner">
         <div class="footer__brand">
-          <img src="../../public/assets/img/logo-cwa.webp" alt="CWA Digital" />
+          <img src="../../public/assets/img/logo.webp" alt="CWA Digital" />
           <p>Especialistas em marketing digital, automação e crescimento para multimarcas e concessionárias. 8+ anos respirando o mercado automotivo.</p>
         </div>
         <div class="footer__col">

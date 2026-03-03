@@ -21,7 +21,7 @@
         <!-- Funil visual -->
         <div class="funil-card">
           <div class="funil-card__hdr">
-            <img src="../../public/assets/img/logo-cwa.webp" alt="CWA" />
+            <img src="../../public/assets/img/logo.webp" alt="CWA" />
             <div>
               <div class="funil-card__title">Fluxo automatizado — Garage HUB</div>
               <div class="funil-card__sub">Do lead ao embaixador em etapas inteligentes</div>

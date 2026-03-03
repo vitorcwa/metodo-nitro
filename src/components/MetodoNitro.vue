@@ -20,7 +20,7 @@
 
         <!-- Timeline card -->
         <div class="tl-card">
-          <img src="../../public/assets/img/logo-cwa.webp" alt="CWA Digital" class="tl-card__logo" />
+          <img src="../../public/assets/img/logo.webp" alt="CWA Digital" class="tl-card__logo" />
           <h3>Sua jornada de transformação</h3>
           <p class="tl-card__desc">6 meses com entregáveis claros e acompanhamento próximo do time CWA.</p>
           <div class="tl-items">

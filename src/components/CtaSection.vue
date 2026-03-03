@@ -4,7 +4,7 @@
     <div class="cta-sec__dots"></div>
     <div class="container">
       <div class="cta-sec__cnt">
-        <img src="../../public/assets/img/logo-cwa.webp" alt="CWA" class="cta-sec__logo" />
+        <img src="../../public/assets/img/logo.webp" alt="CWA" class="cta-sec__logo" />
         <div class="cta-sec__pill">⏱ Os resultados começam com a decisão de hoje</div>
         <h2>Esse é o passo que pode<br/>transformar a história<br/>do <em>seu negócio.</em></h2>
         <p>Não deixe o futuro da sua empresa para amanhã. Agende um diagnóstico gratuito de 30 minutos — nosso time vai mostrar exatamente onde sua operação pode crescer.</p>

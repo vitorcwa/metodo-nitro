@@ -2,7 +2,7 @@
   <nav :class="['navbar', { 'navbar--scrolled': scrolled }]">
     <div class="container navbar__inner">
       <a href="#" class="navbar__logo">
-        <img src="../../public/assets/img/logo-cwa.webp" alt="CWA Digital" />
+        <img src="../../public/assets/img/logo.webp" alt="CWA Digital" />
       </a>
       <ul class="navbar__links">
         <li><a href="#quem">Quem somos</a></li>
