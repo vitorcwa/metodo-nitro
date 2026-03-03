@@ -2,7 +2,7 @@
   <div class="gq-sec">
     <div class="container">
       <div class="gq">
-        <img src="/logo-cwa.png" alt="CWA" class="gq__logo" />
+        <img src="../../public/assets/img/logo-cwa.webp" alt="CWA" class="gq__logo" />
         <p>"Empreender é, geralmente, uma jornada solitária. Raras são as vezes onde você pode realmente abrir seus planos e sonhos com alguém que fale sua língua. Nós somos muito mais que uma agência. <strong>Somos um parceiro para o crescimento da sua empresa. Batalharemos juntos nas trincheiras, superaremos desafios de forma criativa e brindaremos juntos cada conquista."</strong></p>
       </div>
     </div>
